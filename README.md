@@ -22,4 +22,4 @@ bundle install
 4- Passo rode o projeto:
 
 ```
-cucumber
+npx cypress open
